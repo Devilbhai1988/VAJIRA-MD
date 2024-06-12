@@ -12,17 +12,12 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
 </a>
 <hr>
 
 <hr>
 
-## Dont use more than 1 bug commands then your whatsapp will banned avoid from bug commands
-
-## Bot deploy in whatsapp biussness then not banned
-
-## Try Pairing code in to device then not comes session error https://wa.me/94719199757
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
@@ -34,10 +29,6 @@
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
-## MY WA CHANNEL
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24)
-
 ## MY YT CHANNEL
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
@@ -46,21 +37,20 @@
 
 ***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
 
-***Click [My web](https://vajiratech.github.io/QUEEN-IZUMI-WEB/)***
+***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
 <hr>
 
 <hr>
+
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
+<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
-***Wait few minutes to open qr 👇***
-
-<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
-
+<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 <hr>
 
@@ -74,15 +64,9 @@
 
 <hr>
 
-## HELPERS
-[![USHANI](https://telegra.ph/file/1cacb07896ee14aa5920b.jpg?size=80)](https://github.com/vajirabot1) | [![SAVIYA](https://telegra.ph/file/1046fee52c7a14d556793.jpg?size=100)](https://github.com/VajiraTech) | [![TIMASH](https://telegra.ph/file/5e0bf1e4f7230ffe9cc37.jpg?size=109)](https://github.com/VajiraTech) | [![DANIDU](https://telegra.ph/file/4f43cf774e634e40129e5.jpg?size=80)](https://github.com/VajiraTech) | [![VIHANGA](https://telegra.ph/file/3b6537eb342b32de56558.jpg?size=80)](https://github.com/vihangayt0)
-----|----|----|----|----
-[USHANI](https://wa.me/94767898887) | [SAVIYA](https://wa.me/+94757309293) | [TAMISHA](https://wa.me/94715264791) | [DANIDU](https://wa.me/94715322008) | [VIHANGA](https://wa.me/94762898541)
-Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
-<hr>
 
-## HOW TO DEPLOY 👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 👨‍💻
+## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
 
 </div>
 
